@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/rogerioLopesweb/treinamento-react-fundamentos-explore.git",
   "author": "Rogerio Lopes <113315029+rogerioLopesweb@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "reactdom": "^2.0.0"
+  }
 }
