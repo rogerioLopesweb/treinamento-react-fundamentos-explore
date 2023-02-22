@@ -1,1 +1,2 @@
-# treinamento-react-fundamentos-explore
+# Comandos instalação de pacotes
+* yarn init -y
