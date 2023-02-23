@@ -5,8 +5,17 @@
   "repository": "https://github.com/rogerioLopesweb/treinamento-react-fundamentos-explore.git",
   "author": "Rogerio Lopes <113315029+rogerioLopesweb@users.noreply.github.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "babel src/index.jsx --out-file dist/bundle.js"
+  },
   "dependencies": {
+    "@babel/preset-react": "^7.18.6",
     "react": "^18.2.0",
     "reactdom": "^2.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.2"
   }
 }
