@@ -1,4 +1,4 @@
-# Comandos instalação de pacotes
+# Instaçação de pacode congiguração de ambiente de desenvolvimento
 * yarn init -y
 * yarn add react
 * yarn add react-dom
@@ -10,6 +10,10 @@
 * yarn add babel-loader -D
 * yarn add webpack-dev-server -D
 * yarn add cross-env -D
+* yarn add style-loader css-loader -D,
+* yarn add node-sass -D
+* yarn add sass-loader -D
+
 
 ## Comandos de desenvolvimento
 
