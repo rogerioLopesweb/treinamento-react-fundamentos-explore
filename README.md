@@ -13,6 +13,8 @@
 * yarn add style-loader css-loader -D,
 * yarn add node-sass -D
 * yarn add sass-loader -D
+* yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
+
 
 
 ## Comandos de desenvolvimento
